@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>blender</title>
-      <link href="/2024/09/08/blender/"/>
-      <url>/2024/09/08/blender/</url>
+      <title>甜甜圈，美味的甜甜圈</title>
+      <link href="/2024/09/16/%E7%94%9C%E7%94%9C%E5%9C%88%EF%BC%8C%E7%BE%8E%E5%91%B3%E7%9A%84%E7%94%9C%E7%94%9C%E5%9C%88/"/>
+      <url>/2024/09/16/%E7%94%9C%E7%94%9C%E5%9C%88%EF%BC%8C%E7%BE%8E%E5%91%B3%E7%9A%84%E7%94%9C%E7%94%9C%E5%9C%88/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<blockquote><p>跟着油管大神做的入门教程，全部做下来是不小的工程。略过了做金属糖粒的过程，甜甜圈上放金属有点魔幻了，美中不足的是光线和场景做不到位，还原度八成。</p></blockquote><p><img src="/image/%E7%94%9C%E7%94%9C%E5%9C%88.png" alt="图片"></p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=1gft4exE5H&page=quality:high" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div><p>下面是一些小笔记，因为操作真的杂多</p><hr><p>快捷键<br>缩放 S<br>顶点运动 G<br>环切 crtl+R<br>倒角 ctrl+B<br>修改应用 ctrl+A<br>删除关键帧 x<br>插入关键帧 i<br>飞行模式 shift+~<br>生成物体点 shift+右键</p><hr><p>渲染检查<br>面朝向 face  orientation<br>过曝检查<br>color manager false color<br>shift + n修改<br>添加景深</p><hr><p>几何节点<br>random value 随机值<br>tau＝2pi</p>]]></content>
       
       
       <categories>
           
-          <category> Blender </category>
+          <category> blender </category>
           
       </categories>
       
