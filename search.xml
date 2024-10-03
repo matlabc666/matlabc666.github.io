@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Unity音效插件Wwise基础芝士</title>
+      <link href="/2024/10/04/Unity%E9%9F%B3%E6%95%88%E6%8F%92%E4%BB%B6Wwise%E5%9F%BA%E7%A1%80%E8%8A%9D%E5%A3%AB/"/>
+      <url>/2024/10/04/Unity%E9%9F%B3%E6%95%88%E6%8F%92%E4%BB%B6Wwise%E5%9F%BA%E7%A1%80%E8%8A%9D%E5%A3%AB/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>刷完短短的一套网课，UP<code>艾利亚RECORD</code>用官方认证的实例教学和插件自带的小游戏作教学，贴图应该是欧美风叭，半夜操作的时候蹦出来的怪配合着音效有点惊悚(太丑了）</p></blockquote><p><img src="/image/cube.png" alt="图片"></p><p><img src="/image/Wwise.png" alt="图片"></p><hr><p>插件效果：Unity和音频文件的连接通道，负责集成音频。</p><hr><blockquote><p>学习内容：<br>一个音频文件的各种使用方法（一声多用）<br>Random随机生成音效<br>Switch切换音效<br>State切换音效<br>使声音3D空间化，包括actor距离发声体远近，定位旁白<br>音频文件的各种分类方法，构建调音台<br>处理器优化</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 音效 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>加载中··· 积木动画</title>
       <link href="/2024/09/22/%E5%8A%A0%E8%BD%BD%E4%B8%AD%C2%B7%C2%B7%C2%B7-%E7%A7%AF%E6%9C%A8%E5%8A%A8%E7%94%BB/"/>
       <url>/2024/09/22/%E5%8A%A0%E8%BD%BD%E4%B8%AD%C2%B7%C2%B7%C2%B7-%E7%A7%AF%E6%9C%A8%E5%8A%A8%E7%94%BB/</url>
